@@ -1,0 +1,12 @@
+{
+  "name": "node.js_assignment_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Emmanuel Ibekwe",
+  "license": "ISC"
+}
